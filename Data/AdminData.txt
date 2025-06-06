@@ -1,3 +1,4 @@
 User Name: admin
 Password: admin
 =========================================
+Try creating your own data...
