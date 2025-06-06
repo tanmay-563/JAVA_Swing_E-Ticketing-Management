@@ -10,7 +10,7 @@ bash
 Copy
 Edit
 # 1. Clone the repository
-git clone https://github.com/your-username/transport-management-system.git
+git clone https://github.com/tanmay-563/transport-management-system.git <br>
 cd transport-management-system
 
 # 2. Install dependencies
@@ -18,7 +18,7 @@ npm install
 
 # 3. Start the development server
 npm start
-
+<br>
 ✨ Features
 🔍 Search & Book Tickets for Bus, Flight, or Car to pre-listed destinations
 
