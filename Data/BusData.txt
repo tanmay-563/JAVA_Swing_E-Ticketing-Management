@@ -1,0 +1,200 @@
+From : Ranchi
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 2022-12-25
+Seat No : 4
+Type : AC
+Coach: Shyamoli
+Time : 10:45 AM
+Total Cost : 4800
+=========================================
+From : Sylhet
+To : Ranchi
+Booking Date: 2022-12-25
+Arrival : 2022-12-28
+Seat No : 2
+Type : AC
+Coach: Shyamoli
+Time : 10:00 AM
+Total Cost : 2200
+=========================================
+From : Ranchi
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 12-12-2022
+Seat No : 2
+Type : AC
+Coach: Shohagh
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Ranchi
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 12-12-2022
+Seat No : 2
+Type : AC
+Coach: Ena
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Chittagong
+To : Ranchi
+Booking Date: 2022-12-25
+Arrival : 20-12-2022
+Seat No : 2
+Type : AC
+Coach: Shohagh
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Ranchi
+To : Chittagong
+Booking Date: 2022-12-25
+Arrival : 22
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Chittagong
+To : Ranchi
+Booking Date: 2022-12-26
+Arrival : 22
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Ranchi
+To : Chittagong
+Booking Date: 2022-12-26
+Arrival : 11
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Patna
+To : Ranchi
+Booking Date: 2022-12-26
+Arrival : 202
+Seat No : 7
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 8400
+=========================================
+From : Ranchi
+To : Patna
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 2
+Type : AC
+Coach: 4
+Time : 10:00 AM
+Total Cost : 2400
+=========================================
+From : Patna
+To : Ranchi
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 3
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 3600
+=========================================
+From : Patna
+To : Ranchi
+Booking Date: 2022-12-28
+Arrival : 30-12-2022
+Seat No : 1
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 1200
+=========================================
+From : Ranchi
+To : Sylhet
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 3
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 3300
+=========================================
+From : Sylhet
+To : Ranchi
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 1
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 1100
+=========================================
+From : Ranchi
+To : Sylhet
+Booking Date: 2022-12-28
+Arrival : 2022-12-30
+Seat No : 2
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 2200
+=========================================
+From : Ranchi
+To : Patna
+Booking Date: 2025-05-06
+Arrival : 2025-05-07
+Seat No : 2
+Type : AC
+Coach: 1
+Time : 9:00 AM
+Total Cost : 2400
+=========================================
+From : Ranchi
+To : Patna
+Booking Date: 2025-05-06
+Arrival : 2025-05-07
+Seat No : 4
+Type : AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 4800
+=========================================
+From : Ranchi
+To : Barishal
+Booking Date: 2025-05-06
+Arrival : 2025-05-07
+Seat No : 4
+Type : Non AC
+Coach: 3
+Time : 10:45 AM
+Total Cost : 2800
+=========================================
+From : Sylhet
+To : Dhaka
+Booking Date: 2025-05-06
+Arrival : 2025-05-07
+Seat No : 4
+Type : AC
+Coach: 2
+Time : 9:00 AM
+Total Cost : 4400
+=========================================
+From : Dhaka
+To : Sylhet
+Booking Date: 2025-05-06
+Arrival : 2025-05-07
+Seat No : 5
+Type : Non AC
+Coach: 0
+Time : 9:00 AM
+Total Cost : 4000
+=========================================

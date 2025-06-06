@@ -1,0 +1,15 @@
+================Self Registration=============
+First Name: test
+Last Name: test
+User Name: test
+Password: test
+Phone Number: test
+Email: test
+=========================================
+First Name: tanmay
+Last Name: singh
+User Name: tanmay123
+Password: tanmay123
+Phone Number: 1231231231
+Email: tanmay@gmail.com
+=========================================
