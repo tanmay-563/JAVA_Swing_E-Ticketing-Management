@@ -1,64 +1,53 @@
-# E-Ticketing System
+🚦 Transport Management System – Java Swing Desktop App
+A comprehensive Transport Management System built using Java Swing, designed to streamline the process of booking tickets across multiple modes of transport—Bus, Airplane, and Car—to destinations listed in a pre-configured database.
 
-Welcome to the E-Ticketing System, a Java (Swing) project designed to facilitate seamless ticket booking for buses, ships, and air travel. This system provides essential features such as user authentication, ticket booking for various modes of transportation, and secure payment options.
+🛠️ How to Use This Project
+If you're running the Java Swing desktop version, simply compile and run the main class through your IDE (e.g., IntelliJ or Eclipse) and ensure your MySQL database is connected.
 
-## Features
+For the upcoming web-based MERN stack version, follow these steps:
 
-### 1. Login
-- **User Authentication**: Secure login system to ensure authorized access to the E-Ticketing system.
-- **User Roles**: Distinct user roles to differentiate between regular users and administrators.
+bash
+Copy
+Edit
+# 1. Clone the repository
+git clone https://github.com/your-username/transport-management-system.git
+cd transport-management-system
 
-### 2. Registration
-- **User Registration**: Simple registration process for new users to create accounts.
+# 2. Install dependencies
+npm install
 
-### 3. Ticket Booking
-- **Bus Ticket Booking**: Effortless booking of bus tickets with options for selecting the source, destination, date, and seat preferences.
-- **Ship Ticket Booking**: Convenient booking of ship tickets with information on departure and arrival ports, date, and cabin preferences.
-- **Air Ticket Booking**: Seamless booking of air tickets, including flight details, departure, and arrival airports, date, and seat selection.
+# 3. Start the development server
+npm start
 
-### 4. Payment
-- **Secure Payment Gateway**: Integration of a secure payment system to facilitate hassle-free and safe transactions.
-- **Payment Confirmation**: Instant confirmation of successful payments.
+✨ Features
+🔍 Search & Book Tickets for Bus, Flight, or Car to pre-listed destinations
 
-## Technology Stack
+🧾 Dynamic Ticket Generation after booking
 
-- **Programming Language**: Java
-- **User Interface**: Java Swing
-- **Database**: TXT file
+💰 Final Billing Page showing detailed fare summary
 
-## How to Run the Project
+🗃️ Integrated Database Support (using JDBC with SQL) to store routes, bookings, and users
 
-1. **Clone the Repository:**
-   ```bash
-   https://github.com/mirzasaikatahmmed/E-Ticketing.git
-   ```
+🖥️ Built with a clean and responsive Java Swing UI
 
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd E-Ticketing
-   ```
+🎯 Ideal for academic use, prototyping, or small-scale deployment
 
-3. **Compile and Run:**
-   ```bash
-   javac Start.java
-   java Start
-   ```
+🧱 Future Scope (Web Version - MERN Stack)
+To enhance accessibility and attract more users, the project will be expanded into a web-based version using the MERN stack (MongoDB, Express.js, React.js, Node.js), with:
 
+🌐 User Authentication & Online Booking
 
-## Contributors
+📈 Admin Dashboard for Route & Booking Management
 
-- Mehedi Hasan Pranto
-- Ratul Hasan Anas
-- Asif Shahriar Adon
+📲 Mobile-Responsive Interface
 
-## Acknowledgments
+📤 Real-time Ticket & Billing Downloads
 
-We would like to express our gratitude to MD. MAZID-UL-HAQUE SIR, Lecturer, Computer Science, AIUB, for guiding us through the development of this project as part of our course curriculum.
+📁 Tech Stack (Current Version)
+Frontend: Java Swing
 
-## License
+Backend: Java (JDBC), MySQL
 
-This project is licensed under the [MIT License](LICENSE).
+IDE: IntelliJ / Eclipse
 
-Feel free to contribute and make the E-Ticketing System even better! If you encounter any issues or have suggestions, please open an [issue](https://github.com/mirzasaikatahmmed/E-Ticketing/issues).
-
-Happy Ticket Booking! 🎫✈️🚢🚌
+Database: Already there.
