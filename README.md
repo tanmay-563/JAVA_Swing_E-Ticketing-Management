@@ -13,7 +13,7 @@ Edit
 git clone https://github.com/tanmay-563/transport-management-system.git <br>
 cd transport-management-system
 
-# 3. Start the development server
+# 2. Start the development server
 java Start
 
 <br>
