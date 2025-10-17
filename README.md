@@ -13,11 +13,8 @@ Edit
 git clone https://github.com/tanmay-563/transport-management-system.git <br>
 cd transport-management-system
 
-# 2. Install dependencies
-npm install
-
 # 3. Start the development server
-npm start
+java Start
 
 <br>
 .
